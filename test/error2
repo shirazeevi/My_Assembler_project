@@ -1,0 +1,44 @@
+ERRORS IN FILE test2.as :
+
+*******************************************************************************
+
+ERRORS IN FILE test3.as :
+
+Error in the line: 1. The lable is save word name: string:            mov      M1[r2][r7],LENGTH 
+ 
+Error in the line: 6 . The arguments are invalid.   inc K  dfghjk
+ 
+*******************************************************************************
+
+ERRORS IN FILE test4.as :
+
+Error in the line: 6. The macro is save word name: .entry 
+*******************************************************************************
+
+ERRORS IN FILE test5.as :
+
+in line 1 the HNCHAYA without lable is .data 6,-9,15
+ Error in the line: 1 . The arguments are invalid. .data 6,-9,15
+ 
+in line 3 the HNCHAYA without lable is .data 22 
+ Error in the line: 6 .The lable is empty: MAIN:
+ 
+Error in the line: 10 .The lable is empty: LOOP: 
+ 
+Error in the line: 17 . The arguments are invalid. END: ghjk
+ 
+ERORR. in line: 8. the llabel is not exsist. mov M1[r0][r0], r2 
+
+ERORR. in line: 13. the llabel is not exsist. cmp r1, #10 
+
+ERORR. in line: 14. the llabel is not exsist. bne LOOP 
+
+ERORR. in line: 16. the llabel is not exsist. jmp END 
+
+*******************************************************************************
+
+ERRORS IN FILE test6.as :
+
+no file named:test6.as
+*******************************************************************************
+
